@@ -8,7 +8,7 @@ public class Bauer extends Figur {
 		super(team, xPos, yPos);
 	}
 
-	public void move() {
+	public void move(int x, int y) {
 
 		if (team.equalsIgnoreCase("Weiß")) {
 			
