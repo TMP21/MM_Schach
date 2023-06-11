@@ -10,7 +10,7 @@ public class Bauer extends Figur {
 
 	public void move(int x, int y) {
 
-		if (team.equalsIgnoreCase("Weiß")) {
+		if (team.equalsIgnoreCase("white")) {
 			
 		} else {
 			
@@ -20,7 +20,7 @@ public class Bauer extends Figur {
 	
 	public void moveFromStart() {
 
-		if (team.equalsIgnoreCase("Weiß")) {
+		if (team.equalsIgnoreCase("white")) {
 			
 		} else {
 			
