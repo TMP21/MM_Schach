@@ -6,8 +6,8 @@ public class Läufer extends Figur{
 		super(team, xPos, yPos);
 	}
 	
-	public void move() {
+	public void move(int xPos, int yPos) {
 		
-	}
+	}	
 
 }
